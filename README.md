@@ -1,1 +1,3 @@
-# Webtechnologien-Datenbanken-S22
+# Webtechnologien & Datenbanken Sommersemester 22
+
+Code zur Vorlesung
